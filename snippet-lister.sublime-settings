@@ -1,0 +1,5 @@
+{
+	// Set the name of the folder with all the snippet inside
+	// See Readme.md for explanation
+	"main_snippet_folder_name": "snippet"
+}
