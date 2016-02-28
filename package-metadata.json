@@ -1,8 +1,0 @@
-{
-	"sublime_text": "3", 
-	"platforms": ["*"], 
-	"dependencies": [], 
-	"version": "1.0.0", 
-	"description": "Sublime Text plugin to open your snippet from it. ", 
-	"url": "https://github.com/math2001/snippet-lister"
-}
